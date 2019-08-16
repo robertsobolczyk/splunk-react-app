@@ -1,0 +1,10 @@
+<dashboard script="index.js" stylesheet='app.css' theme="dark" hideEdit="true">
+  <label>React</label>
+  <row>
+    <panel>
+      <html>
+        <div id="root"/>
+      </html>
+    </panel>
+  </row>
+</dashboard>

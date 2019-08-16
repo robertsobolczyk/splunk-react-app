@@ -1,0 +1,17 @@
+[app/ui]
+version = 7.3.0
+modtime = 1562506270.810809700
+
+[app/launcher]
+version = 7.3.0
+modtime = 1562506270.814819200
+
+[views/react]
+owner = ivfisunov
+version = 7.3.0
+modtime = 1562839875.396966400
+
+[indexes/zbx_dbcollect]
+owner = ivfisunov
+version = 7.3.0
+modtime = 1562835166.104548400
